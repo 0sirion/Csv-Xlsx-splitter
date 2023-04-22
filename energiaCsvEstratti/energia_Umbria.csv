@@ -1,0 +1,12 @@
+ITTER107,Territorio,TIPO_DATO_CENERG,Tipo dato,DOTAZIONI_A,Fonte alimentazione,TIME,Seleziona periodo,Value,Flag Codes,Flags
+ITE2,Umbria,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),ALL,tutte le voci,2013,2013,651324.0,,
+ITE2,Umbria,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),H_OIL,gasolio,2013,2013,23699.0,,
+ITE2,Umbria,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),LPG,Gpl (Gas Petrolio Liquefatto),2013,2013,54821.0,,
+ITE2,Umbria,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),ELECTR,energia elettrica,2013,2013,226816.0,,
+ITE2,Umbria,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),METAN,metano,2013,2013,269213.0,,
+ITE2,Umbria,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),H_OIL,gasolio,2013,2013,1057.0,,
+ITE2,Umbria,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),LPG,Gpl (Gas Petrolio Liquefatto),2013,2013,520.0,,
+ITE2,Umbria,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),ELECTR,energia elettrica,2013,2013,586.0,,
+ITE2,Umbria,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),METAN,metano,2013,2013,920.0,,
+ITE2,Umbria,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),FIREWOOD,legna,2013,2013,414.0,,
+ITE2,Umbria,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),PELLETS,pellets,2013,2013,443.0,,

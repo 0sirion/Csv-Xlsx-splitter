@@ -1,0 +1,12 @@
+ITTER107,Territorio,TIPO_DATO_CENERG,Tipo dato,DOTAZIONI_A,Fonte alimentazione,TIME,Seleziona periodo,Value,Flag Codes,Flags
+ITFG,Mezzogiorno,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),ALL,tutte le voci,2013,2013,11408063.0,,
+ITFG,Mezzogiorno,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),H_OIL,gasolio,2013,2013,302303.0,,
+ITFG,Mezzogiorno,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),LPG,Gpl (Gas Petrolio Liquefatto),2013,2013,1098621.0,,
+ITFG,Mezzogiorno,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),ELECTR,energia elettrica,2013,2013,5187581.0,,
+ITFG,Mezzogiorno,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),METAN,metano,2013,2013,4025016.0,,
+ITFG,Mezzogiorno,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),H_OIL,gasolio,2013,2013,1026.0,,
+ITFG,Mezzogiorno,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),LPG,Gpl (Gas Petrolio Liquefatto),2013,2013,347.0,,
+ITFG,Mezzogiorno,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),ELECTR,energia elettrica,2013,2013,633.0,,
+ITFG,Mezzogiorno,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),METAN,metano,2013,2013,752.0,,
+ITFG,Mezzogiorno,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),FIREWOOD,legna,2013,2013,546.0,,
+ITFG,Mezzogiorno,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),PELLETS,pellets,2013,2013,467.0,,

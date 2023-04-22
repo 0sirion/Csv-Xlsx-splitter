@@ -1,0 +1,12 @@
+ITTER107,Territorio,TIPO_DATO_CENERG,Tipo dato,DOTAZIONI_A,Fonte alimentazione,TIME,Seleziona periodo,Value,Flag Codes,Flags
+ITC1,Piemonte,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),ALL,tutte le voci,2013,2013,3724781.0,,
+ITC1,Piemonte,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),H_OIL,gasolio,2013,2013,202441.0,,
+ITC1,Piemonte,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),LPG,Gpl (Gas Petrolio Liquefatto),2013,2013,193864.0,,
+ITC1,Piemonte,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),ELECTR,energia elettrica,2013,2013,1037748.0,,
+ITC1,Piemonte,ENER_SOUR_EXP,spese delle famiglie per consumi energetici per fonte (migliaia di euro),METAN,metano,2013,2013,2144882.0,,
+ITC1,Piemonte,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),H_OIL,gasolio,2013,2013,1537.0,,
+ITC1,Piemonte,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),LPG,Gpl (Gas Petrolio Liquefatto),2013,2013,651.0,,
+ITC1,Piemonte,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),ELECTR,energia elettrica,2013,2013,513.0,,
+ITC1,Piemonte,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),METAN,metano,2013,2013,1215.0,,
+ITC1,Piemonte,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),FIREWOOD,legna,2013,2013,452.0,,
+ITC1,Piemonte,ENER_SOUR_EXP_AV,spesa media effettiva delle famiglie per consumi energetici per fonte (euro),PELLETS,pellets,2013,2013,514.0,,
